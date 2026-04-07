@@ -85,9 +85,11 @@ B.Tech student in Computer Science (AI & ML) at G. Pulla Reddy Engineering Colle
 
 <div align="center">
 
-![Abdul Razak Bilal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulrazakbilal&show_icons=true&theme=dark&hide_border=true&bg_color=080c10&title_color=00d4a4&icon_color=00d4a4&text_color=e8edf2&rank_icon=github)
+[![GitHub Streak](https://streak-stats.demolab.com?user=abdulrazakbilal&theme=dark&hide_border=true&background=080c10&ring=00d4a4&fire=00d4a4&currStreakLabel=00d4a4&sideLabels=7a8a9a&dates=7a8a9a&currStreakNum=e8edf2&sideNums=e8edf2)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrazakbilal&layout=compact&theme=dark&hide_border=true&bg_color=080c10&title_color=00d4a4&text_color=e8edf2)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrazakbilal&layout=compact&theme=dark&hide_border=true&bg_color=080c10&title_color=00d4a4&text_color=e8edf2&langs_count=8)](https://github.com/abdulrazakbilal)
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdulrazakbilal&theme=react-dark&hide_border=true&bg_color=080c10&color=00d4a4&line=00d4a4&point=e8edf2&area=true&area_color=00d4a4)](https://github.com/abdulrazakbilal)
 
 </div>
 
