@@ -1,153 +1,125 @@
 <div align="center">
 
-# Abdul Razak Bilal 👋  
+```
+  █████╗ ██████╗ ██████╗
+ ██╔══██╗██╔══██╗██╔══██╗
+ ███████║██████╔╝██████╔╝
+ ██╔══██║██╔══██╗██╔══██╗
+ ██║  ██║██║  ██║██████╔╝
+ ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝
+```
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&width=800&lines=Data+Scientist+%7C+AI+%26+ML;Applied+Analytics+Across+Domains;Sports+%7C+Business+%7C+Real-World+Data" />
+### Abdul Razak Bilal
+**Aspiring Data Scientist · B.Tech CSE (AI & ML) · GPREC, Kurnool**
 
-<br/>
+*Turning raw data into clarity — one model at a time.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-razak-bilal/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/abdulrazakbilal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-razak-bilal/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00d4a4?style=flat-square&logo=vercel&logoColor=black)](https://abdulrazakbilal.github.io)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abdulrazakbilal32@gmail.com)
 
 </div>
 
 ---
 
-## 👋 About Me
+## About
 
-I am an aspiring **Data Scientist** with a strong foundation in **statistics, machine learning, and data analysis**, currently pursuing a B.Tech in **Computer Science (AI & ML)**.
+B.Tech student in Computer Science (AI & ML) at G. Pulla Reddy Engineering College. My interests sit at the intersection of **machine learning**, **sports analytics**, and **agentic AI systems**. I build things that turn messy data into decisions.
 
-I enjoy applying data science across **multiple domains**, including:
-- Sports & performance analytics  
-- Business & financial data  
-- Real-world social and economic problems  
-
-While sports analytics is a strong personal passion, my work spans **end-to-end data science problems** — from data wrangling and modeling to deployment and visualization.
-
----
-
-<hr/>
-
-## 🧠 Core Skills
-
-### Data Science & Machine Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-
-- Statistics & Probability  
-- Exploratory Data Analysis (EDA)  
-- Feature Engineering  
-- Regression, Classification, Clustering  
-- Time-Series Forecasting *(Foundations)*  
-
-### Visualization & Reporting
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
-
-- Excel (Pivot Tables & Analysis)
-
-### Databases & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-### Generative AI
-- Prompt Engineering  
-- AI-assisted workflows  
+- 🏏 Building cricket analytics tools — IPL win probability, XI optimization
+- 🤖 Led agentic AI projects at IBM watsonx and ET Gen AI hackathons
+- 📊 WorldQuant Applied Data Science Lab — 8 end-to-end projects completed
+- 🌐 Vibe-coding real products (POS systems, news engines, sports platforms)
+- 🎯 Actively looking for **Data Science / ML / Analytics internships**
 
 ---
 
-<hr/>
+## Tech Stack
 
-## 🧪 Selected Projects
+**Languages & Core**
 
-### 🏆 FIFA World Cup 2022 Analysis *(In Progress)*
-**Repository:** `fifa-world-cup-2022-analysis`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-- End-to-end analysis of FIFA World Cup Qatar 2022  
-- Team and match-level performance insights  
-- Data cleaning, EDA, and visual storytelling  
-- Designed as a sports analytics case study  
+**Data Science & ML**
 
----
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-AA4A44?style=flat-square&logo=xgboost&logoColor=white)
 
-### 📈 WASP Win Probability Model
-**Repository:** `wasp-win-probability-project`
+**AI & GenAI**
 
-- Win probability modeling in cricket  
-- Situation-based outcome estimation  
-- Focus on probability theory and feature logic  
+![Groq](https://img.shields.io/badge/Groq_API-F55036?style=flat-square&logo=groq&logoColor=white)
+![IBM watsonx](https://img.shields.io/badge/IBM_watsonx-052FAD?style=flat-square&logo=ibm&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-6B48FF?style=flat-square&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
 
----
+**Tools & Deployment**
 
-### 🏏 Optimized T20 Play 11
-**Repository:** `Optimized-T20-Play-11`
-
-- Data-driven system to recommend optimal T20 playing XIs  
-- Combines player statistics with team balance constraints  
-- Decision-support analytics application  
-
----
-
-### 🔮 Play11 Prism – Cricket Performance Platform
-**Repository:** `play11prism`
-
-- AI-backed platform for optimizing T20 cricket lineups  
-- Jupyter Notebook → user-facing web application  
-- Demonstrates applied data science beyond notebooks  
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ---
 
-### 🌍 Applied Data Science Lab Projects (WorldQuant University)
+## Featured Projects
 
-- **Housing Price Prediction** (Mexico, Buenos Aires) – Regression & deployment  
-- **Air Quality Forecasting** (Nairobi) – Time-series modeling  
-- **Earthquake Damage Classification** (Nepal) – Classification models  
-- **Bankruptcy Prediction** (Poland) – Resampling & evaluation  
-- **Customer Segmentation** (USA) – K-Means, PCA, Dash app  
-
----
-
-<hr/>
-
-## 💼 Experience
-
-**Data Analytics Intern – iTUX Solutions (Remote)**  
-
-- Data analysis and visualization using Power BI  
-- Structured documentation and training content  
-- Business insights through collaborative analytics  
+| Project | Description | Stack |
+|---|---|---|
+| [**Bharat Vaani**](https://github.com/abdulrazakbilal/bharat-vaani) | Culturally adaptive Indian news engine — ET Gen AI Hackathon 2026 | FastAPI · Next.js · Groq · TTS |
+| [**WASP — IPL Win Probability**](https://github.com/abdulrazakbilal/wasp-win-probability-project) | End-to-end win probability model on 130k+ ball-by-ball IPL records | Python · XGBoost · Streamlit |
+| [**Play11 Prism**](https://github.com/abdulrazakbilal/Optimized-T20-Play-11) | AI-powered T20 XI optimizer · [Live →](https://play11prism.lovable.app/) | Python · Lovable · Supabase |
+| [**MedIQ**](https://github.com/abdulrazakbilal/MedIQ-Health-Informatics) | Medical image quality control using computer vision (Laplacian Variance, SNR) | OpenCV · Streamlit |
+| [**Zayka Shawarma**](https://github.com/abdulrazakbilal/zaykashawarma) | Business landing page · [Live →](https://zaykashawarma.in/) | Vibe-coded · GitHub Pages |
+| **Multi-Agent Patent System** | 5-agent patent strategy system — IBM Dev Day Hackathon (Team Lead) | IBM watsonx Orchestrate |
 
 ---
 
-<hr/>
-
-## 🌱 Currently Exploring
-
-- Advanced Machine Learning techniques  
-- Time-Series Modeling  
-- Domain-driven data science projects  
-
----
-
-<hr/>
-
-## 📊 GitHub Activity
+## GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=abdulrazakbilal&show_icons=true&hide_border=true" />
+
+![Abdul Razak Bilal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulrazakbilal&show_icons=true&theme=dark&hide_border=true&bg_color=080c10&title_color=00d4a4&icon_color=00d4a4&text_color=e8edf2&rank_icon=github)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrazakbilal&layout=compact&theme=dark&hide_border=true&bg_color=080c10&title_color=00d4a4&text_color=e8edf2)
+
 </div>
 
 ---
 
-## 🔗 Connect
+## Certifications
 
-- LinkedIn: https://www.linkedin.com/in/abdul-razak-bilal/  
-- GitHub: https://github.com/abdulrazakbilal  
+- 🏅 **Applied Data Science Lab** — WorldQuant University · Jan 2026 · [Credential](https://www.credly.com/badges/484dee99-c198-4cdf-843d-a62279ea110e/linked_in_profile)
+- 🏅 **Machine Learning Foundation** — Infosys Springboard · Jan 2026
+- 🏅 **Meta Data Analyst Professional Certificate** — Meta / Coursera · Mar 2025 · [Credential](https://www.coursera.org/account/accomplishments/specialization/AOLPO1DIDA57)
+- 🏅 **Google AI Essentials** — Google / Coursera · Aug 2024 · [Credential](https://www.credly.com/badges/2e962897-131e-46c9-8b34-6714f3de8844/linked_in_profile)
+- 🏅 **Python Programming** — HCL GUVI · Aug 2023
 
 ---
 
-<p align="center"><i>Learning by building. Applying data science across domains.</i></p>
+## Experience
+
+**Data Analytics Intern** — iTUX Solutions *(Dec 2023 – May 2024 · Remote)*
+> Power BI dashboards · business insight delivery · data documentation
+
+**AI Agent Architect & Team Lead** — IBM Dev Day Hackathon 2026
+> Designed reasoning flows for 5 interacting agents on IBM watsonx Orchestrate
+
+**Full-Stack Developer & Team Lead** — ET Gen AI Hackathon 2026
+> Built Bharat Vaani end-to-end: FastAPI + Next.js + Groq API + Edge TTS
+
+---
+
+<div align="center">
+
+*"Data is not information, information is not knowledge, knowledge is not understanding."*
+
+**Open to internships · collaborations · and interesting problems.**
+
+</div>
